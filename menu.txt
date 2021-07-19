@@ -17,3 +17,6 @@ Kebab 9.99
 
 Lahmacun 8.99
 Sandwitch 4.99
+
+pizza 3.99
+soup 6.99
