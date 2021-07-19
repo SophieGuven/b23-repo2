@@ -9,3 +9,8 @@ Ice Coffee 2.88 300cal
 Lunch menu:
 butter chicken 1200cal 10.99
 polo 2000cal 15.99
+
+Burger 5.99
+Veggie Bowl 5.89
+Gyro 8.99
+Kebab 9.99
