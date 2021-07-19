@@ -14,3 +14,6 @@ Burger 5.99
 Veggie Bowl 5.89
 Gyro 8.99
 Kebab 9.99
+
+Lahmacun 8.99
+Sandwitch 4.99
